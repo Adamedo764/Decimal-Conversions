@@ -4,7 +4,6 @@
 
 #### Here are the Binary to Decimal conversions.
 [Binary-Decimal Conversion](Decimal-Binary-Conversion.md)
-#### Here is how computers translate binary into words.
-[Binary-Computers](Computer-Binary-Conversion.md)
+
 
 
