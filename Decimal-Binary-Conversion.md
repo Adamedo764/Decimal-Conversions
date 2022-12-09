@@ -16,4 +16,8 @@ Once all the numbers are multiplied, you then add them up.
 ### Using the example above here is the final answer.
 ![Answer](Answer.PNG)
 
+Now using the steps above, you are able to solve any binary to decimal conversion, as long as you know the powers of 2 and how to multiply.
+
+#### Here are some more examples, to further your understanding.
+
 
