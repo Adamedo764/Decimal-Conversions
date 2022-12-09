@@ -10,5 +10,6 @@ Once you have the powers, the next step is to line up the Binary Code to the pow
 
 Once the binary is lined up to the powers of 2, you are then going to multiply the one or the zero by the power result.
 ### Here is an example of what the multiplication looks like.
+![Example](Multiex.PNG)
 
 
