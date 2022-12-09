@@ -12,4 +12,8 @@ Once the binary is lined up to the powers of 2, you are then going to multiply t
 ### Here is an example of what the multiplication looks like.
 ![Example](Multiex.PNG)
 
+Once all the numbers are multiplied, you then add them up.
+### Using the example above here is the final answer.
+![Answer](Answer.PNG)
+
 
